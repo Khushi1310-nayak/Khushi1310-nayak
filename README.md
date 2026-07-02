@@ -1,196 +1,191 @@
-<!-- markdownlint-disable MD033 MD041 MD045 -->
+<!-- markdownlint-disable MD009 MD022 MD028 MD033 MD041 MD045 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111827,B794F4,6EE7B7,7DD3FC&height=180&section=header&animation=twinkling" width="100%" alt="Header" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=45&duration=3000&pause=1000&color=B794F4&center=true&vCenter=true&width=800&lines=MANISA+NAYAK;FRONTEND+ENGINEER;AI+PRODUCT+BUILDER" alt="MANISA NAYAK" />
-  </a>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2000&pause=500&color=6EE7B7&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+Design+and+Code;Architecting+Futuristic+Digital+Experiences" alt="Typing Subtext" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111827,C4B5FD,86EFAC,A5F3FC&height=160&section=header&animation=twinkling" width="100%" alt="Header" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=55&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&lines=MANISA+NAYAK;SOFTWARE+ENGINEER;AI+PRODUCT+BUILDER" alt="MANISA NAYAK" />
+  </a>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=500&color=86EFAC&center=true&vCenter=true&width=700&lines=>>+Crafting+Cyber-Aesthetic+Interfaces;>>+Architecting+Scalable+AI+Infrastructure;>>+Building+Next-Gen+Web+Experiences" alt="Typing Subtext" />
+  </a>
+  
   <p align="center">
-    <a href="https://www.linkedin.com/in/manisa-nayak-185bb5378/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=B794F4&labelColor=111827&color=111827" alt="LinkedIn" /></a>
-    <a href="https://manisa-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=6EE7B7&labelColor=111827&color=111827" alt="Portfolio" /></a>
-    <a href="mailto:khushinayak127@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=111827&color=111827" alt="Email" /></a>
-    <a href="https://leetcode.com/u/KhushiNayak1234/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=B794F4&labelColor=111827&color=111827" alt="LeetCode" /></a>
+    <a href="https://www.linkedin.com/in/manisa-nayak-185bb5378/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=111827&color=111827" alt="LinkedIn" /></a>
+    <a href="https://manisa-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=86EFAC&labelColor=111827&color=111827" alt="Portfolio" /></a>
+    <a href="mailto:khushinayak127@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A5F3FC&labelColor=111827&color=111827" alt="Email" /></a>
+    <a href="https://leetcode.com/u/KhushiNayak1234/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=C4B5FD&labelColor=111827&color=111827" alt="LeetCode" /></a>
   </p>
 </div>
 
+<br><br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&color=B794F4&center=true&vCenter=true&width=300&lines=SYSTEM_PROFILE" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=111827,C4B5FD,86EFAC,A5F3FC,111827&height=3&width=80%&animation=twinkling" alt="glow-line" />
 </div>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Current_Focus-111827?style=for-the-badge&logoColor=B794F4&color=111827" alt="Focus" /><br/>
-      <p>Building high-performance futuristic interfaces with <b>Next.js 15</b>.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Learning-111827?style=for-the-badge&logoColor=6EE7B7&color=111827" alt="Learning" /><br/>
-      <p>Advanced Backend Architecture, System Design & GraphQL.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Goals-111827?style=for-the-badge&logoColor=7DD3FC&color=111827" alt="Goals" /><br/>
-      <p>Mastering scalable architectures & AI product infrastructure.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Fun_Fact-111827?style=for-the-badge&logoColor=B794F4&color=111827" alt="Fun Fact" /><br/>
-      <p>I obsess over UI/UX design just as much as database indexing.</p>
-    </td>
-  </tr>
-</table>
+<br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&color=6EE7B7&center=true&vCenter=true&width=400&lines=CORE_TECHNOLOGIES" alt="Tech Stack" />
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&color=111827" alt="Frontend" /><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css&theme=dark" alt="Frontend Icons" />
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&color=111827" alt="Backend" /><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,postgres&theme=dark" alt="Backend Icons" />
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Languages-111827?style=for-the-badge&color=111827" alt="Languages" /><br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" alt="Languages Icons" />
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/DevOps-111827?style=for-the-badge&color=111827" alt="Tools" /><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Tools Icons" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&color=7DD3FC&center=true&vCenter=true&width=400&lines=PRODUCT_SHOWCASE" alt="Projects" />
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/CareerOS-111827?style=for-the-badge&logoColor=B794F4&color=111827" alt="CareerOS" /><br/>
-      <p><i>An all-in-one AI-powered career growth platform.</i></p>
-      <img src="https://img.shields.io/badge/Next.js-B794F4?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/TypeScript-6EE7B7?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/Supabase-7DD3FC?style=flat-square&color=111827" alt="Tech" /><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=111827&color=6EE7B7" alt="Demo"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-B794F4?style=for-the-badge&logo=github&logoColor=111827&color=B794F4" alt="Code"/></a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/LYRA_AI_Assistant-111827?style=for-the-badge&logoColor=B794F4&color=111827" alt="LYRA" /><br/>
-      <p><i>Futuristic personal AI assistant interface.</i></p>
-      <img src="https://img.shields.io/badge/React-B794F4?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/Node.js-6EE7B7?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/OpenAI-7DD3FC?style=flat-square&color=111827" alt="Tech" /><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=111827&color=6EE7B7" alt="Demo"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-B794F4?style=for-the-badge&logo=github&logoColor=111827&color=B794F4" alt="Code"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Focusync-111827?style=for-the-badge&logoColor=B794F4&color=111827" alt="Focusync" /><br/>
-      <p><i>Productivity and focus management ecosystem.</i></p>
-      <img src="https://img.shields.io/badge/React-B794F4?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/Express-6EE7B7?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/MongoDB-7DD3FC?style=flat-square&color=111827" alt="Tech" /><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=111827&color=6EE7B7" alt="Demo"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-B794F4?style=for-the-badge&logo=github&logoColor=111827&color=B794F4" alt="Code"/></a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Smart_Attendance-111827?style=for-the-badge&logoColor=B794F4&color=111827" alt="Attendance" /><br/>
-      <p><i>Automated face-recognition attendance tracker.</i></p>
-      <img src="https://img.shields.io/badge/Python-B794F4?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/OpenCV-6EE7B7?style=flat-square&color=111827" alt="Tech" />
-      <img src="https://img.shields.io/badge/PostgreSQL-7DD3FC?style=flat-square&color=111827" alt="Tech" /><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=111827&color=6EE7B7" alt="Demo"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-B794F4?style=for-the-badge&logo=github&logoColor=111827&color=B794F4" alt="Code"/></a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&color=B794F4&center=true&vCenter=true&width=400&lines=COMMAND_CENTER" alt="Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&color=A5F3FC&center=true&vCenter=true&width=500&lines=01_SYSTEM_INITIALIZATION" alt="About" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Khushi1310-nayak?style=for-the-badge&logo=github&color=111827&labelColor=111827&logoColor=B794F4" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Khushi1310-nayak?style=for-the-badge&logo=github&color=111827&labelColor=111827&logoColor=6EE7B7" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/Khushi1310-nayak?style=for-the-badge&logo=github&color=111827&labelColor=111827&logoColor=7DD3FC" alt="Repositories" />
+  <img src="https://img.shields.io/badge/FOCUS-Next.js_15_&_AI_Integration-111827?style=for-the-badge&logo=react&logoColor=C4B5FD&labelColor=111827&color=374151" alt="Focus" />
+  <img src="https://img.shields.io/badge/LEARNING-System_Architecture-111827?style=for-the-badge&logo=cachet&logoColor=86EFAC&labelColor=111827&color=374151" alt="Learning" />
+  <img src="https://img.shields.io/badge/GOALS-Scalable_Infrastructure-111827?style=for-the-badge&logo=target&logoColor=A5F3FC&labelColor=111827&color=374151" alt="Goals" />
+  <img src="https://img.shields.io/badge/PASSION-Cyber_Aesthetics-111827?style=for-the-badge&logo=codeigniter&logoColor=C4B5FD&labelColor=111827&color=374151" alt="Passion" />
 </div>
 
-<br/>
+<br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=111827,C4B5FD,86EFAC,A5F3FC,111827&height=3&width=80%&animation=twinkling" alt="glow-line" />
+</div>
+<br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi1310-nayak&show_icons=true&hide_border=true&bg_color=111827&title_color=B794F4&icon_color=6EE7B7&text_color=7DD3FC&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi1310-nayak&hide_border=true&background=111827&ring=B794F4&fire=6EE7B7&currStreakNum=7DD3FC&sideNums=7DD3FC&currStreakLabel=B794F4&sideLabels=B794F4&dates=B794F4&border_radius=10" alt="GitHub Streak" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&color=86EFAC&center=true&vCenter=true&width=500&lines=02_TECH_ARSENAL" alt="Skills" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi1310-nayak&layout=compact&hide_border=true&bg_color=111827&title_color=B794F4&text_color=6EE7B7&border_radius=10" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi1310-nayak&bg_color=111827&color=7DD3FC&line=B794F4&point=6EE7B7&area=true&hide_border=true" alt="Activity Graph" width="48%" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=C4B5FD&color=374151" alt="TS" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=86EFAC&color=374151" alt="Next" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=A5F3FC&color=374151" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=C4B5FD&color=374151" alt="Node" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=86EFAC&color=374151" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=A5F3FC&color=374151" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=C4B5FD&color=374151" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=86EFAC&color=374151" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=A5F3FC&color=374151" alt="Supabase" />
+</div>
+
+<br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=111827,C4B5FD,86EFAC,A5F3FC,111827&height=3&width=80%&animation=twinkling" alt="glow-line" />
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&color=C4B5FD&center=true&vCenter=true&width=500&lines=03_PRODUCT_SHOWCASE" alt="Projects" />
 </div>
 
 <div align="center">
+
+> ### 💠 **CareerOS** 
+> *An all-in-one AI-powered career growth platform.*
+> <br/>
+> <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&color=374151&logo=next.js&logoColor=C4B5FD" alt="Tech"/> <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&color=374151&logo=typescript&logoColor=86EFAC" alt="Tech"/> <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&color=374151&logo=supabase&logoColor=A5F3FC" alt="Tech"/>
+> <br/>
+> <a href="#"><img src="https://img.shields.io/badge/Live_Demo-86EFAC?style=for-the-badge&logo=vercel&logoColor=111827&color=86EFAC" alt="Demo"/></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=111827&color=C4B5FD" alt="Code"/></a>
+
+> ### 💠 **LYRA AI Assistant**
+> *Futuristic personal AI assistant interface.*
+> <br/>
+> <img src="https://img.shields.io/badge/React-111827?style=flat-square&color=374151&logo=react&logoColor=A5F3FC" alt="Tech"/> <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&color=374151&logo=nodedotjs&logoColor=C4B5FD" alt="Tech"/>
+> <br/>
+> <a href="#"><img src="https://img.shields.io/badge/Live_Demo-86EFAC?style=for-the-badge&logo=vercel&logoColor=111827&color=86EFAC" alt="Demo"/></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=111827&color=C4B5FD" alt="Code"/></a>
+
+> ### 💠 **Focusync**
+> *Productivity and focus management ecosystem.*
+> <br/>
+> <img src="https://img.shields.io/badge/React-111827?style=flat-square&color=374151&logo=react&logoColor=C4B5FD" alt="Tech"/> <img src="https://img.shields.io/badge/Express-111827?style=flat-square&color=374151&logo=express&logoColor=86EFAC" alt="Tech"/> <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&color=374151&logo=mongodb&logoColor=A5F3FC" alt="Tech"/>
+> <br/>
+> <a href="#"><img src="https://img.shields.io/badge/Live_Demo-86EFAC?style=for-the-badge&logo=vercel&logoColor=111827&color=86EFAC" alt="Demo"/></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=111827&color=C4B5FD" alt="Code"/></a>
+
+</div>
+
+<br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=111827,C4B5FD,86EFAC,A5F3FC,111827&height=3&width=80%&animation=twinkling" alt="glow-line" />
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&color=A5F3FC&center=true&vCenter=true&width=500&lines=04_COMMAND_CENTER" alt="Analytics" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Khushi1310-nayak?style=for-the-badge&logo=github&color=374151&labelColor=111827&logoColor=C4B5FD" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Khushi1310-nayak?style=for-the-badge&logo=github&color=374151&labelColor=111827&logoColor=86EFAC" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/Khushi1310-nayak?style=for-the-badge&logo=github&color=374151&labelColor=111827&logoColor=A5F3FC" alt="Repositories" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushi1310-nayak&show_icons=true&hide_border=true&bg_color=111827&title_color=C4B5FD&icon_color=A5F3FC&text_color=86EFAC&border_radius=10" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi1310-nayak&hide_border=true&background=111827&ring=C4B5FD&fire=86EFAC&currStreakNum=A5F3FC&sideNums=A5F3FC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=C4B5FD&border_radius=10" alt="GitHub Streak" width="45%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi1310-nayak&layout=compact&hide_border=true&bg_color=111827&title_color=C4B5FD&text_color=86EFAC&border_radius=10" alt="Top Languages" width="45%" />
   <a href="https://leetcode.com/u/KhushiNayak1234/">
-    <img src="https://leetcard.jacoblin.cool/KhushiNayak1234?theme=dark&font=Inter&ext=activity&bg=111827&title_color=B794F4&text_color=6EE7B7&border=0" alt="LeetCode Stats" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/KhushiNayak1234?theme=dark&font=Space+Grotesk&ext=activity&bg=111827&title_color=C4B5FD&text_color=86EFAC&border=0" alt="LeetCode Stats" width="45%" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi1310-nayak&bg_color=111827&color=A5F3FC&line=C4B5FD&point=86EFAC&area=true&hide_border=true" alt="Activity Graph" width="91%" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Khushi1310-nayak&theme=gitdark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" width="48%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Khushi1310-nayak&theme=gitdark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
   </a>
+</div>
+
+<br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=111827,C4B5FD,86EFAC,A5F3FC,111827&height=3&width=80%&animation=twinkling" alt="glow-line" />
+</div>
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&color=86EFAC&center=true&vCenter=true&width=500&lines=05_DEVELOPER_JOURNEY" alt="Journey" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&color=6EE7B7&center=true&vCenter=true&width=400&lines=OPEN_SOURCE" alt="Open Source" />
+  <img src="https://img.shields.io/badge/PULL_REQUESTS-Merged-111827?style=for-the-badge&logo=git-pull-request&logoColor=86EFAC&labelColor=111827&color=374151" alt="PRs" />
+  <img src="https://img.shields.io/badge/ISSUES-Resolved-111827?style=for-the-badge&logo=github-issues&logoColor=C4B5FD&labelColor=111827&color=374151" alt="Issues" />
+  <img src="https://img.shields.io/badge/HACKATHONS-Winner-111827?style=for-the-badge&logo=devpost&logoColor=A5F3FC&labelColor=111827&color=374151" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/COMMUNITY-Active-111827?style=for-the-badge&logo=discord&logoColor=C4B5FD&labelColor=111827&color=374151" alt="Community" />
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Merged_PRs-111827?style=for-the-badge&logo=github&logoColor=B794F4&color=111827" alt="PRs" /><br/>
-      <p>Active contributor to React ecosystems.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Hackathons-111827?style=for-the-badge&logo=devpost&logoColor=6EE7B7&color=111827" alt="Hackathons" /><br/>
-      <p>Building rapid prototypes & MVPs.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Discussions-111827?style=for-the-badge&logo=github&logoColor=7DD3FC&color=111827" alt="Discussions" /><br/>
-      <p>Engaging in complex tech debates.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/Internships-111827?style=for-the-badge&logo=linkedin&logoColor=B794F4&color=111827" alt="Internships" /><br/>
-      <p>Collaborating in agile environments.</p>
-    </td>
-  </tr>
-</table>
+<br><br>
 
 <div align="center">
   <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushi1310-nayak/Khushi1310-nayak/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khushi1310-nayak/Khushi1310-nayak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khushi1310-nayak/Khushi1310-nayak/output/github-contribution-grid-snake.svg" width="95%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khushi1310-nayak/Khushi1310-nayak/output/github-contribution-grid-snake.svg" width="91%">
   </picture>
 </div>
 
+<br><br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111827,B794F4,6EE7B7,7DD3FC&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/manisa-nayak-185bb5378/"><img src="https://img.shields.io/badge/LinkedIn-B794F4?style=flat-square&logo=linkedin&logoColor=111827&color=B794F4" alt="LinkedIn" /></a>
-    <a href="https://manisa-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6EE7B7?style=flat-square&logo=vercel&logoColor=111827&color=6EE7B7" alt="Portfolio" /></a>
-    <a href="mailto:khushinayak127@gmail.com"><img src="https://img.shields.io/badge/Email-7DD3FC?style=flat-square&logo=gmail&logoColor=111827&color=7DD3FC" alt="Email" /></a>
-    <a href="https://github.com/Khushi1310-nayak"><img src="https://img.shields.io/badge/GitHub-B794F4?style=flat-square&logo=github&logoColor=111827&color=B794F4" alt="GitHub" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111827,C4B5FD,86EFAC,A5F3FC&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
+</div>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Khushi1310-nayak&color=6EE7B7&style=for-the-badge&label=SYSTEM+VIEWS" alt="Profile Views" />
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&color=C4B5FD&center=true&vCenter=true&width=500&lines=INITIATE_CONNECTION" alt="Connect" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khushi1310-nayak&color=86EFAC&style=for-the-badge&label=SYSTEM_VIEWS&labelColor=111827" alt="Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Khushi1310-nayak">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=C4B5FD&color=374151" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/manisa-nayak-185bb5378/">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=86EFAC&color=374151" alt="LinkedIn" />
+  </a>
 </div>
