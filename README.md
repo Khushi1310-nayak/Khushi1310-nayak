@@ -1,109 +1,196 @@
-<!-- markdownlint-disable MD009 MD022 MD028 MD033 MD041 MD045 -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,C4B5FD,86EFAC,A5F3FC,09090B&height=3&width=100%&animation=twinkling" alt="Top Glow" />
-  
-  <br><br><br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&lines=MANISA+NAYAK" alt="MANISA NAYAK" />
-  </a>
-  
-  <br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Product+Builder" alt="Roles" />
-  </a>
-  
-  <br><br>
-  
-  <a href="https://www.linkedin.com/in/manisa-nayak-185bb5378/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=18181B&color=18181B" alt="LinkedIn" /></a>
-  <a href="https://manisa-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=86EFAC&labelColor=18181B&color=18181B" alt="Portfolio" /></a>
-  <a href="mailto:khushinayak127@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=A5F3FC&labelColor=18181B&color=18181B" alt="Email" /></a>
-  <a href="https://leetcode.com/u/KhushiNayak1234/"><img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=C4B5FD&labelColor=18181B&color=18181B" alt="LeetCode" /></a>
-  
-  <br><br>
-</div>
+<!-- markdownlint-disable MD001 MD009 MD022 MD026 MD028 MD033 MD036 MD041 MD045 -->
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=450&lines=ABOUT+ME" alt="About Me" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Manisa%20Nayak&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=58&descColor=A78BFA" alt="Header" />
 
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&width=650&lines=Passionate+Developer+Building+AI+Powered+Products" alt="About Subtitle" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Experiences;Frontend+Focused+%7C+Full-Stack+Capable;Building+AI-Powered+Products;Seeking+SDE+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
 
-1. 💻 Computer Science student passionate about building scalable software and AI-powered products.
+# 👩💻 About Me
 
-2. 🚀 Experienced in **Java, TypeScript, React, Next.js, Node.js, Cloud, and modern web technologies**.
+```javascript
+const manisa = {
+  name: "Manisa Nayak",
+  role: "Computer Science Student & Software Developer",
+  location: "India",
+  
+  expertise: [
+    "Frontend Development",
+    "Full Stack Development",
+    "AI Product Building",
+    "Open Source Contribution"
+  ],
 
-3. ✨ I love turning ideas into real-world applications through full-stack development, open source, hackathons, and personal projects.
+  currentlyLearning: [
+    "Data Structures & Algorithms",
+    "System Design",
+    "Backend Engineering",
+    "Cloud Computing",
+    "Artificial Intelligence"
+  ],
 
-4. 📚 Currently exploring **Data Structures & Algorithms, System Design, Backend Engineering, Cloud Computing, and Artificial Intelligence**.
+  motto: "Building scalable software and turning ideas into real-world applications."
+};
 
-5. 🎯 Seeking **Software Engineering** and **Full-Stack Development** internship opportunities.
+console.log("Code. Learn. Improve. Repeat.");
+```
 
+## 🚀 Who Am I?
+
+- 💻 Computer Science student passionate about building scalable software and AI-powered products
+- 🚀 Experienced in Java, TypeScript, React, Next.js, Node.js, Cloud, and modern web technologies
+- ✨ I love turning ideas into real-world applications through full-stack development, open source, hackathons, and personal projects
+- 📚 Currently exploring Data Structures & Algorithms, System Design, Backend Engineering, Cloud Computing, and Artificial Intelligence
+- 🎯 Seeking SDE and Full-Stack Development internship opportunities
+
+📫 **Email:** `khushinayak127@gmail.com`
+
+---
+
+# 🎯 Currently Working On
+
+- 🚀 Building scalable Full-Stack and AI applications
+- 🧠 Solving Data Structures & Algorithms and exploring System Design
+- ⚡ Strengthening Backend Engineering and Cloud Computing skills
+- 💼 Actively seeking SDE and Full-Stack Development internships
+- 🔍 Contributing to Open Source and participating in Hackathons
+
+---
+
+# 🛠️ Tech Arsenal
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css" alt="Languages" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+</p>
+
+## Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,firebase,docker" alt="Backend" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,gcp,sentry" alt="Tools" />
+</p>
+
+---
+
+# 💻 LeetCode Journey
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+## 🏆 Focus Areas
+
+- Data Structures & Algorithms
+- System Design
+- Problem Solving
+
+## 🎯 Goal
+
+Solve problems consistently and strengthen problem-solving skills for software engineering roles.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Khushi1310-nayak&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br/><br/>
 
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Khushi1310-nayak&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+
+</div>
+
+<br/><br>
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=500&lines=TECH+STACK" alt="Tech Stack" />
+<img src="https://streak-stats.demolab.com?user=Khushi1310-nayak&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi1310-nayak&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://manisa-os.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://github.com/Khushi1310-nayak">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/manisa-nayak-185bb5378/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://leetcode.com/u/KhushiNayak1234/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="mailto:khushinayak127@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
-<br>
+---
 
-| Category | Technologies |
-|----------|--------------|
-| **🌐 Languages** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **⚛️ Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) |
-| **🛠️ Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) |
-| **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
-| **🧪 Testing & Monitoring** | ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white) |
-| **🛠️ Dev Tools & Deployment** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) |
+# 💜 Philosophy
 
-<br/><br/>
+> Great software isn't just about functionality.
+>
+> It's about creating experiences people enjoy using and turning ideas into scalable real-world applications.
 
-<div align="center">
+I love building products that are fast, scalable, intuitive, and visually polished.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=GITHUB+STATS" alt="GitHub Stats" />
-</a>
+### Always Learning • Always Building • Always Improving 🚀
 
-</div>
-
-<br>
-
-![](https://github-readme-stats.shion.dev/api?username=Khushi1310-nayak&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-<br>
-
-![](https://streak-stats.demolab.com/?user=Khushi1310-nayak&theme=radical&hide_border=false)
-
-<br>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Khushi1310-nayak&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br/><br/>
+---
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=RANDOM+DEV+QUOTE" alt="Random Dev Quote" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Khushi1310-nayak&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views" />
+
+## ⭐ If you like my work, consider starring my repositories!
 
 </div>
 
-<br>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" alt="Footer" />
