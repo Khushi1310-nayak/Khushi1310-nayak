@@ -18,10 +18,9 @@ const manisa = {
   role: "Computer Science Student & Software Developer",
   location: "India",
   
-  expertise: [
-    "Frontend Development",
+   expertise: [
     "Full Stack Development",
-    "AI Product Building",
+    "AI Agent Automation",
     "Open Source Contribution"
   ],
 
@@ -120,7 +119,7 @@ Solve problems consistently and strengthen problem-solving skills for software e
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=Khushi1310-nayak&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<br/><br/>
+<br/>
 
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Khushi1310-nayak&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 
