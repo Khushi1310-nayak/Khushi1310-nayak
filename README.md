@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Manisa%20Nayak&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=58&descColor=A78BFA" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=𝓜𝓪𝓷𝓲𝓼𝓪%20𝓝𝓪𝔂𝓪𝓴&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=58&descColor=A78BFA" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Experiences;Frontend+Focused+%7C+Full-Stack+Capable;Building+AI-Powered+Products;Seeking+SDE+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -119,13 +119,13 @@ Solve problems consistently and strengthen problem-solving skills for software e
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=Khushi1310-nayak&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<br/>
+<br/><br>
 
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Khushi1310-nayak&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 
 </div>
 
-<br/><br>
+<br/>
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Khushi1310-nayak&theme=radical&hide_border=false" alt="GitHub Streak" />
