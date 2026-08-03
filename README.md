@@ -1,114 +1,74 @@
 <!-- markdownlint-disable MD001 MD009 MD022 MD026 MD028 MD033 MD036 MD041 MD045 -->
 
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,45:0D9488,85:0EA5E9,100:10B981&height=220&section=header&text=Manisa%20Nayak&fontSize=54&fontAlignY=38&fontColor=ffffff&fontFamily=Nunito&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20AI%20Product%20Builder&descSize=17&descAlignY=61&descColor=E0F2FE"/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=𝓜𝓪𝓷𝓲𝓼𝓪%20𝓝𝓪𝔂𝓪𝓴&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=58&descColor=A78BFA" alt="Header" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=23&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Manisa+%F0%9F%8E%80;Turning+Ideas+Into+Interactive+Experiences;Full-Stack+Developer+%7C+AI+Product+Builder;Design+%C3%97+Logic+%C3%97+Clean+Architecture;Always+building%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Experiences;Frontend+Focused+%7C+Full-Stack+Capable;Building+AI-Powered+Products;Seeking+SDE+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khushi1310-nayak&label=Profile+Views&color=10B981&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Khushi1310-nayak?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0f172a)](https://github.com/Khushi1310-nayak)
 
 </div>
 
 ---
 
-# 👩💻 About Me
+## 🌿 About Me
 
-```javascript
+<div align="center">
+<img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="380" style="border-radius:12px;"/>
+</div>
+
+<br/>
+
+```ts
 const manisa = {
-  name: "Manisa Nayak",
-  role: "Computer Science Student & Software Developer",
-  location: "India",
-  
-   expertise: [
-    "Full Stack Development",
-    "AI Agent Automation",
-    "Open Source Contribution"
-  ],
-
-  currentlyLearning: [
-    "Data Structures & Algorithms",
-    "System Design",
-    "Backend Engineering",
-    "Cloud Computing",
-    "Artificial Intelligence"
-  ],
-
-  motto: "Building scalable software and turning ideas into real-world applications."
+  name       : "Manisa Nayak",
+  role       : "Computer Science Student & Software Developer",
+  location   : "India",
+  expertise  : ["Full Stack Development", "AI Agent Automation", "Open Source"],
+  focus      : ["Data Structures & Algorithms", "System Design", "Cloud Engineering"],
+  motto      : "Building scalable software and turning ideas into real-world applications.",
+  vibe       : "Design meets logic ✨",
+  status     : "Always levelling up 🚀"
 };
-
-console.log("Code. Learn. Improve. Repeat.");
 ```
 
-## 🚀 Who Am I?
+💻 Computer Science student passionate about building **scalable software & AI-powered products**  
+🚀 Experienced in **Java, Python, TypeScript, React, Next.js, Node.js, Cloud**, and modern web architectures  
+✨ Love turning complex ideas into intuitive applications through **full-stack engineering & open source**  
+📚 Lifelong learner — currently exploring **Data Structures, System Design, Backend, and AI**  
+🎯 Seeking **SDE and Full-Stack Development Internship** opportunities
 
-- 💻 Computer Science student passionate about building scalable software and AI-powered products
-- 🚀 Experienced in Java, TypeScript, React, Next.js, Node.js, Cloud, and modern web technologies
-- ✨ I love turning ideas into real-world applications through full-stack development, open source, hackathons, and personal projects
-- 📚 Currently exploring Data Structures & Algorithms, System Design, Backend Engineering, Cloud Computing, and Artificial Intelligence
-- 🎯 Seeking SDE and Full-Stack Development internship opportunities
-
-📫 **Email:** `khushinayak127@gmail.com`
+📫 **Contact Email:** `khushinayak127@gmail.com`
 
 ---
 
-# 🎯 Currently Working On
-
-- 🚀 Building scalable Full-Stack and AI applications
-- 🧠 Solving Data Structures & Algorithms and exploring System Design
-- ⚡ Strengthening Backend Engineering and Cloud Computing skills
-- 💼 Actively seeking SDE and Full-Stack Development internships
-- 🔍 Contributing to Open Source and participating in Hackathons
-
----
-
-# 🛠️ Tech Arsenal
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css" alt="Languages" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
-</p>
-
-## Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,firebase,docker" alt="Backend" />
-</p>
-
-## Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,gcp,sentry" alt="Tools" />
-</p>
-
----
-
-# 💻 LeetCode Journey
+## 🌊 Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+| Category | Technologies |
+| :--- | :--- |
+| 💻 **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| ⚙️ **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| 🛠️ **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) |
 
-## 🏆 Focus Areas
+</div>
 
-- Data Structures & Algorithms
-- System Design
-- Problem Solving
+---
 
-## 🎯 Goal
+## 🏆 LeetCode & Problem Solving
 
-Solve problems consistently and strengthen problem-solving skills for software engineering roles.
+<div align="center">
 
-</td>
-</tr>
-</table>
+| 🎯 Focus Areas | 🚀 Main Goal |
+| :--- | :--- |
+| • Data Structures & Algorithms<br>• System Design & Scalability<br>• Core Algorithmic Problem Solving | Solve problems consistently, master algorithmic patterns, and strengthen technical readiness for SDE roles. |
 
 </div>
 
@@ -134,22 +94,19 @@ Solve problems consistently and strengthen problem-solving skills for software e
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi1310-nayak&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Khushi1310-nayak&theme=emerald&no-frame=true&no-bg=true&margin-w=9" width="80%" />
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://manisa-os.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 <a href="https://github.com/Khushi1310-nayak">
@@ -172,24 +129,19 @@ Solve problems consistently and strengthen problem-solving skills for software e
 
 ---
 
-# 💜 Philosophy
-
-> Great software isn't just about functionality.
->
-> It's about creating experiences people enjoy using and turning ideas into scalable real-world applications.
-
-I love building products that are fast, scalable, intuitive, and visually polished.
-
-### Always Learning • Always Building • Always Improving 🚀
-
----
+## 💚 Philosophy
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Khushi1310-nayak&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" alt="Profile Views" />
+> *"Great software isn't just about functionality. It's about creating experiences people enjoy using and turning ideas into scalable real-world applications."*
 
-## ⭐ If you like my work, consider starring my repositories!
+### ✦ Always Learning · Always Building · Always Improving 🚀 ✦
+
+<br/>
+
+⭐ **If you like my work, consider starring my repositories!**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" alt="Footer" />
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:0D9488,100:059669&height=120&section=footer"/>
